@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    {
+      "name": "Rainbowpay",
+      "latest_version": "1.0.4",
+    }
+  ]
+}
