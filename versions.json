@@ -2,7 +2,7 @@
   "plugins": [
     {
       "name": "Rainbowpay",
-      "latest_version": "1.0.5",
+      "latest_version": "1.0.6",
 	  "url": "https://rainbowbridge.fun/docs/Rainbowpay/"
     },
     {
